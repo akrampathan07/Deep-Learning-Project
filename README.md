@@ -1,4 +1,4 @@
-# Deep-Learning-Project- Mental Health analysis
+# Deep-Learning-Project- Mental Health analysis using LSTM
 The primary objective is to move beyond binary classifications (e.g., casual conversations vs.
 mental health-related discussions) and delve into a nuanced analysis of mental health ailments
 and their severity. By scrutinizing the textual data gleaned from Reddit, the project seeks to
